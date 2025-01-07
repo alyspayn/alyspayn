@@ -4,7 +4,7 @@ My name is Alyssa, and I am a PhD student in Biomedical Informatics.
 
 My projects currently focus on improving risk predictions for kidney transplantation outcomes.
 
-Links that can be helpful:
+### Links:
 
 Lab Website: https://hla.tulane.edu/
 
